@@ -1,5 +1,5 @@
-import React from 'react';
-import { LineChart, BarChart } from '@tremor/react';
+
+import { LineChart } from '@tremor/react';
 
 // Example types for the raw PostHog input structure and the mapped structure
 export interface ExtractedChartProps {

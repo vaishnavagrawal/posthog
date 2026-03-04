@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { BarChart } from '@tremor/react';
 import { ExtractedChartProps } from '../LineGraph/LineGraph';
 
